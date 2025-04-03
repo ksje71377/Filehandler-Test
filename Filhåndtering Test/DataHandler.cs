@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Filhåndtering_Test
 {
-    internal class DataHandler
+    public class DataHandler
     {
         public string filePath = "cars.txt";
 

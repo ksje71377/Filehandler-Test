@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Filhåndtering_Test
 {
-    internal class Car
+    public class Car
     {
         public string Make { get; set; }
         public string Model { get; set; }
